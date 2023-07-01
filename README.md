@@ -3,4 +3,4 @@ test
 remote change
 from experiment branch
 
-e from local:expected conflict
+remote mod local:expected conflict
