@@ -2,4 +2,4 @@ test
 remote change
 
 
-local changes
+change conflict
