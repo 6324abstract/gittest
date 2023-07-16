@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 test 
 remote change
-
+to close issue
 
 change conflict
 =======
